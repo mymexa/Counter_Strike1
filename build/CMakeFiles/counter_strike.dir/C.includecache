@@ -1,0 +1,46 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/doubledblack/Code/Test Counter/Counter_Strike/include/Attack.h
+../include/BattleField.h
+/home/doubledblack/Code/Test Counter/Counter_Strike/include/BattleField.h
+
+/home/doubledblack/Code/Test Counter/Counter_Strike/include/BattleField.h
+Player.h
+/home/doubledblack/Code/Test Counter/Counter_Strike/include/Player.h
+
+/home/doubledblack/Code/Test Counter/Counter_Strike/include/Defence.h
+../include/Attack.h
+/home/doubledblack/Code/Test Counter/Counter_Strike/include/Attack.h
+
+/home/doubledblack/Code/Test Counter/Counter_Strike/include/Defines.h
+
+/home/doubledblack/Code/Test Counter/Counter_Strike/include/Pistol.h
+Defines.h
+/home/doubledblack/Code/Test Counter/Counter_Strike/include/Defines.h
+
+/home/doubledblack/Code/Test Counter/Counter_Strike/include/Player.h
+stdbool.h
+-
+Pistol.h
+/home/doubledblack/Code/Test Counter/Counter_Strike/include/Pistol.h
+Defines.h
+/home/doubledblack/Code/Test Counter/Counter_Strike/include/Defines.h
+
+/home/doubledblack/Code/Test Counter/Counter_Strike/include/Prints.h
+../include/Defence.h
+/home/doubledblack/Code/Test Counter/Counter_Strike/include/Defence.h
+
+/home/doubledblack/Code/Test Counter/Counter_Strike/src/Prints.c
+stdlib.h
+-
+stdio.h
+-
+../include/Prints.h
+/home/doubledblack/Code/Test Counter/Counter_Strike/include/Prints.h
+

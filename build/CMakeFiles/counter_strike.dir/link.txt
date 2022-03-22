@@ -1,0 +1,1 @@
+/usr/bin/cc    CMakeFiles/counter_strike.dir/src/main.c.o CMakeFiles/counter_strike.dir/src/BattleField.c.o CMakeFiles/counter_strike.dir/src/Defence.c.o CMakeFiles/counter_strike.dir/src/Prints.c.o CMakeFiles/counter_strike.dir/src/Attack.c.o  -o counter_strike 

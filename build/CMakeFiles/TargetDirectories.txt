@@ -1,0 +1,3 @@
+/home/doubledblack/Code/Test Counter/Counter_Strike/build/CMakeFiles/rebuild_cache.dir
+/home/doubledblack/Code/Test Counter/Counter_Strike/build/CMakeFiles/edit_cache.dir
+/home/doubledblack/Code/Test Counter/Counter_Strike/build/CMakeFiles/counter_strike.dir
