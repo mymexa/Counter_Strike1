@@ -11,15 +11,15 @@ Running tests:
 The script will loop counter_strike through all 10 inputs and compare program output to the provided 10 output.txt.
 You should get:
 
-Files test.001.out.txt and - are identical
-Files test.002.out.txt and - are identical
-Files test.003.out.txt and - are identical
-Files test.004.out.txt and - are identical
-Files test.005.out.txt and - are identical
-Files test.006.out.txt and - are identical
-Files test.007.out.txt and - are identical
-Files test.008.out.txt and - are identical
-Files test.009.out.txt and - are identical
-Files test.010.out.txt and - are identical
+Files test.001.out.txt and - are identical                           
+Files test.002.out.txt and - are identical                       
+Files test.003.out.txt and - are identical         
+Files test.004.out.txt and - are identical          
+Files test.005.out.txt and - are identical         
+Files test.006.out.txt and - are identical             
+Files test.007.out.txt and - are identical               
+Files test.008.out.txt and - are identical        
+Files test.009.out.txt and - are identical      
+Files test.010.out.txt and - are identical         
 
 This means that the program is running as intended.
